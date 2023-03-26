@@ -1,0 +1,51 @@
+body {
+  background-image: url(./assets/heart.jpg);
+}
+
+#main-head {
+  font-family: "Ultra", serif;
+  margin-top: 200px;
+  font-size: 60px;
+  color: #4d001f;
+}
+@media (max-width: 500px) {
+  #main-head {
+    font-size: 40px;
+  }
+}
+#content {
+  margin-top: 2%;
+}
+#timer {
+  font-size: 16px;
+}
+#d {
+  font-size: 19px;
+}
+
+#h {
+  font-size: 19px;
+}
+
+#m {
+  font-size: 19px;
+}
+
+#s {
+  font-size: 19px;
+}
+.card {
+  margin: auto;
+}
+.card-title {
+  font-family: "Fasthand", cursive;
+}
+.card-text {
+  font-family: "Fasthand", cursive;
+}
+
+.sign {
+  font-family: "Mrs Saint Delafield", cursive;
+  font-size: 40px;
+  font-weight: bold;
+}
